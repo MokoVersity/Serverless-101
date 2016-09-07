@@ -10,19 +10,19 @@
  
 * 第 3 課：Serverless App 與 IoT 整合與串接
 
-### 學習藍圖
+### 課程說明
+
+如果你還不知道 Serverless 的觀念，這門課程絕對是你的必修課程。課程將帶你打造第一個 Serverless 架構的應用程式，並以 IoT 做為專題演練。
 
 ![](https://cloud.githubusercontent.com/assets/1126021/13871103/b0f09960-ed1c-11e5-810b-33f4aa8f0e70.png)
 
-* *架構面*：你將認識 Web of Things、Broker Architecture 與 Proxy Gateway 總計 3 大架構
-* *技能面*：你將學習如何修改 IoT server 程式碼，加入新功能
-* *實作面*：你將能搭建一個 Personal IoT 環境
+這門課程將介紹如何以 Serverless 架構，實作 IoT broker 與 IoT Proxy。也就是上圖的 Cloud 部份。課程將使用 Microsoft Functions 雲平台。
 
-### 課程說明
-
-### 專題演練
- 
 ### 課程對象
+
+* 想認識 Serverless 架構的初學者
+* 想了解如何以 Node.js 實作 Serverless 架構的程式
+* 想了解 Serverless 架構如何與 IoT 結合的技術人員與產品經理
 
 ### 講師團隊
 
