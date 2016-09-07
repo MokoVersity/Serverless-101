@@ -16,7 +16,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/1126021/13871103/b0f09960-ed1c-11e5-810b-33f4aa8f0e70.png)
 
-這門課程將介紹如何以 Serverless 架構，實作 IoT broker 與 IoT Proxy。也就是上圖的 Cloud 部份。課程將使用 Microsoft Functions 雲平台。
+這門課程將介紹如何以 Serverless 架構，實作 IoT broker 與 IoT Proxy。也就是上圖的 Azure cloud 部份。課程將使用 Microsoft Functions 雲平台。
 
 ### 課程對象
 
