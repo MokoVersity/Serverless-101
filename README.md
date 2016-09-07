@@ -2,18 +2,20 @@
 
 <h1 class="hide">Serverless 101 實戰教學：用 Node.js 實作無伺服器架構</h1>
 
+> Serverless 是「無伺服器化」的技術嗎？Serverless 的本質是：「佈署事件處理」的架構。
+
 ### 課程大綱
 
 * 第 1 課：Serverless Computing 入門演練
  * 使用 Node.js 演練 "Hello, World"
  * 事件處理 (Event Handling) 演練
-
 * 第 2 課：實作與佈署 Serverless App
  * 使用 Amazon Lambda 佈署練習
  * 使用 Microsoft Functions 佈署練習
  * 演練 IoT 的 Serverless App 佈署與測試
- 
-* 第 3 課：Serverless App 與 IoT 整合與串接
+* 第 3 課：Serverless App 與 Web Frontend 整合
+ * 串接 Grove Starter Kit 感測器
+ * 使用 React 與 Flux 串接 Web App
 
 ### 課程說明
 
