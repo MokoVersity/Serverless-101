@@ -1,3 +1,4 @@
+<p class="lead">課程內容正在編修中，將於 9 月 9 日正式上線</p>
 
 <h1 class="hide">Serverless 101 實戰教學：用 Node.js 實作無伺服器架構</h1>
 
