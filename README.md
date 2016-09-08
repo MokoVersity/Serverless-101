@@ -1,21 +1,23 @@
-<p class="lead">課程內容正在編修中，將於 9 月 9 日正式上線</p>
+<p class="lead">你將在課堂中，從零開始，以 Node.js 獨立完成第一個 Serverless 的實作，並搭建溫度與空氣品質偵測的物聯網。</p>
 
-<h1 class="hide">Serverless 101 實戰教學：用 Node.js 實作無伺服器架構</h1>
-
-> Serverless 是「無伺服器化」的技術嗎？Serverless 的本質是：「佈署事件處理」的架構。
+Serverless 也稱為 Serverless Computing，它不是「不需要伺服器」的技術，而是「另一個雲端事件處理」的軟體架構。課堂將步驟式引導：開發並佈署整合 Serverless，並一步步整合 IoT 裝置與 React.js 前端。
 
 ### 課程大綱
+
+> Serverless 是「無伺服器化」的技術嗎？Serverless 的本質是：「佈署事件處理」的架構。
 
 * 第 1 課：Serverless Computing 入門演練
  * 使用 Node.js 演練 "Hello, World"
  * 事件處理 (Event Handling) 演練
+ * Serverless 與 REST 架構的差異比較<br /><br />
 * 第 2 課：實作與佈署 Serverless App
  * 使用 Amazon Lambda 佈署練習
  * 使用 Microsoft Functions 佈署練習
- * 演練 IoT 的 Serverless App 佈署與測試
+ * 演練 IoT 的 Serverless App 佈署與測試<br /><br />
 * 第 3 課：Serverless App 與 Web Frontend 整合
  * 串接 Grove Starter Kit 感測器
  * 使用 React 與 Flux 串接 Web App
+ * Serverless 如何結合微服務（Microservice）<br /><br />
 
 ### 課程說明
 
