@@ -13,7 +13,8 @@ Serverless 也稱為 Serverless Computing，它不是「不需要伺服器」的
 * 第 2 課：實作與佈署 Serverless App
  * 使用 Amazon Lambda 佈署練習
  * 使用 Microsoft Functions 佈署練習
- * 演練 IoT 的 Serverless App 佈署與測試<br /><br />
+ * 演練 IoT 的 Serverless App 佈署與測試
+ * 函數（Functional）運算實作的背景知識整理<br /><br />
 * 第 3 課：Serverless App 與 Web Frontend 整合
  * 串接 Grove Starter Kit 感測器
  * 使用 React 與 Flux 串接 Web App
